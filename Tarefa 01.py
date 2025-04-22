@@ -55,7 +55,6 @@ def to_excel(df):
 
 def main():
 	st.set_page_config(page_title = "Telemarketing Analisys",
-		page_icon = Image.open(r"D:\Documentos\Profissional\Cursos\EBAC\Dados\Desenvolvimento\EBAC_Modulo28\telmarketing_icon.png"),
 		layout = "wide",
 		initial_sidebar_state = 'expanded')
 
