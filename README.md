@@ -6,12 +6,9 @@ Um simples resumo do uso/propósito do projeto.
 
 Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
 
-## Utilização
+## Link para a aplicação WEB
+https://ebac-modulo28.onrender.com/
 
-### Dependencias
-
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
 
 ### Instalação
 
@@ -37,8 +34,8 @@ comando para rodar se o programa tiver uma informação de ajuda
 
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
+ex. Marina França 
+ex. [@MarinaFrança](https://www.linkedin.com/in/marinafran%C3%A7a1992/)
 
 ## Histórico de versões.
 
