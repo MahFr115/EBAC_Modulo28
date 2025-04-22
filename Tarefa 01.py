@@ -58,8 +58,8 @@ def main():
 		layout = "wide",
 		initial_sidebar_state = 'expanded')
 
-	image = Image.open(r"D:\Documentos\Profissional\Cursos\EBAC\Dados\Desenvolvimento\EBAC_Modulo28\Bank-Branding.jpg")
-	st.image(image, )
+	st.write("# Bank Branding 💸💸")
+	
 	st.write("# Telemarketing Analisys ☎️")
 	st.markdown("---")
 
