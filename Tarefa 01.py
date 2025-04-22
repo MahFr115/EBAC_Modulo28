@@ -55,11 +55,11 @@ def to_excel(df):
 
 def main():
 	st.set_page_config(page_title = "Telemarketing Analisys",
-		page_icon = Image.open(r"C:\Users\marin\OneDrive\Documentos\EBAC_Dados\img\telmarketing_icon.png"),
+		page_icon = Image.open(r"D:\Documentos\Profissional\Cursos\EBAC\Dados\Desenvolvimento\EBAC_Modulo28\telmarketing_icon.png"),
 		layout = "wide",
 		initial_sidebar_state = 'expanded')
 
-	image = Image.open(r"C:\Users\marin\OneDrive\Documentos\EBAC_Dados\img\Bank-Branding.jpg")
+	image = Image.open(r"D:\Documentos\Profissional\Cursos\EBAC\Dados\Desenvolvimento\EBAC_Modulo28\Bank-Branding.jpg")
 	st.image(image, )
 	st.write("# Telemarketing Analisys ☎️")
 	st.markdown("---")
